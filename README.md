@@ -141,10 +141,7 @@ A single pipeline call produces four artifacts in `artifacts/`:
 | `decile_metrics.csv` | Engagement rates by score decile |
 | `report.html` | Interactive stakeholder dashboard |
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1100&auto=format&fit=crop&q=80" alt="Analytics dashboard with charts" width="90%" style="border-radius:10px;" />
-<br/><em>The kind of reporting clarity this pipeline delivers to operational teams.</em>
-</div>
+
 
 ---
 
@@ -230,10 +227,7 @@ The single most important number. Shows the estimated **causal** engagement rate
 ### Decile Performance Table
 Breaks the scored population into 10 equal buckets (D1 = highest scores). A well-calibrated model shows a clean descending staircase — D1 engages far more than D10.
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1100&auto=format&fit=crop&q=80" alt="Team reviewing performance charts together" width="90%" style="border-radius:10px;" />
-<br/><em>What weekly capacity planning conversations look like with CI-backed lift estimates.</em>
-</div>
+
 
 ---
 
@@ -338,8 +332,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1100&auto=format&fit=crop&q=80" alt="Modern data science workspace" width="90%" style="border-radius:10px;" />
-<br/><br/>
-<em>Built with care for the coordinators, the members, and the data. ❤️</em>
-</div>
+
