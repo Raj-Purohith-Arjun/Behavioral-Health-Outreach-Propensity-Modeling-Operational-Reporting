@@ -29,10 +29,6 @@ Most teams answer this with gut feel, tenure-based rule books, or simple demogra
 
 This is the problem we set out to solve.
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=1100&auto=format&fit=crop&q=80" alt="Data analyst reviewing dashboards" width="90%" style="border-radius:10px;" />
-<br/><em>A care team analyst reviewing engagement dashboards — the insight gap we're closing.</em>
-</div>
 
 ---
 
